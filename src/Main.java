@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Main extends JFrame {
-
+//
 	JPanel cardPanel;
 	
 	public Main(String title) {

@@ -16,11 +16,13 @@ public class Mario extends MovingImage {
 
 	// METHODS
 	public void walk(int dir) {
-		// WALK!
+		// WALK!\
+		super.x += dir*5;
 	}
 
 	public void jump() {
 		// JUMP!
+		
 	}
 
 	public void act(ArrayList<Shape> obstacles) {
