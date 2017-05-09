@@ -22,7 +22,7 @@ public class Mario extends MovingImage {
 
 	public void jump() {
 		// JUMP!
-		
+		//
 	}
 
 	public void act(ArrayList<Shape> obstacles) {
